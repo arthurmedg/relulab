@@ -17,5 +17,5 @@ Landing page desenvolvida como atividade prática utilizando HTML5 e CSS3.
 - Área de contato
 - Footer responsivo
 
-## 👨‍💻 Autor
+## Autor
 Arthur Medina Gonçalves
